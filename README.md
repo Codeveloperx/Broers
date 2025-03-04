@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Ant Desing
+# React + TypeScript + Vite + Ant Design
 
 ## Instalación y ejecución del proyecto
 
